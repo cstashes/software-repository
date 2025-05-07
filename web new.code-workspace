@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../mongodbconnectapp-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web new"
+	}
+}

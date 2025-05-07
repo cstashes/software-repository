@@ -1,0 +1,11 @@
+.what{font-family:Trebuchet MS;font-size:20pt; color:red}
+.what1{font-family:Trebuchet MS;font-size:20pt; color:red;left:50%; bottom:50%}
+.hood{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color:mediumvioletred}
+.myimg8{height:10px;width:10px;display:block;margin:auto}
+.myimg9{height:10px;width:10px;display:block;margin:auto;left:40px;bottom:30px}
+.background1{height:80px;width:0px;display:block;margin:auto;left:40px;bottom:30px}
+.div{opacity:70;}
+.body {
+    background-image: url('Unknown.jpeg');
+}
+.myimg8{height:200px;width:400px;display:block;margin:auto;left:76%;bottom:60%;position:absolute}

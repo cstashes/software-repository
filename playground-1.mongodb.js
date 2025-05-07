@@ -1,0 +1,13 @@
+// MongoDB Playground
+// Use Ctrl+Space inside a snippet or a string literal to trigger completions.
+
+// The current database to use.
+use('macrepository');
+
+// Create a new document in the collection.
+db.getCollection('software').insertOne({
+
+});
+"age:40, occupation: what's good,", "age:50, occupation:no"
+"whyyyy"
+
