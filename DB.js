@@ -1,22 +1,22 @@
-Game, Release Date, Specs, Genre
+                                Game, Release Date, Specs, Genre
 
 
 
 
 
-Maddog Mccree, 1996, CC, Adventure   
+                                Maddog Mccree, 1996, CC, Adventure   
 
 
 
 
 
-Dracula Unchained, 1998, cc, Horror
+                                Dracula Unchained, 1998, cc, Horror
 
 
 
 
 
-Oregon Trail 2, 1997, cc, Simulation
+                                Oregon Trail 2, 1997, cc, Simulation
 
 
 
