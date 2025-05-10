@@ -1,11 +1,9 @@
-db.getCollection('software').insertMany([
-  { 'item': 'abc', 'price': 10, 'quantity': 2, 'date': new Date('2014-03-01T08:00:00Z') },
-  { 'item': 'jkl', 'price': 20, 'quantity': 1, 'date': new Date('2014-03-01T09:00:00Z') },
-  { 'item': 'xyz', 'price': 5, 'quantity': 10, 'date': new Date('2014-03-15T09:00:00Z') },
-  { 'item': 'xyz', 'price': 5, 'quantity': 20, 'date': new Date('2014-04-04T11:21:39.736Z') },
-  { 'item': 'abc', 'price': 10, 'quantity': 10, 'date': new Date('2014-04-04T21:23:13.331Z') },
-  { 'item': 'def', 'price': 7.5, 'quantity': 5, 'date': new Date('2015-06-04T05:08:13Z') },
-  { 'item': 'def', 'price': 7.5, 'quantity': 10, 'date': new Date('2015-09-10T08:43:00Z') },
-  { 'item': 'abc', 'price': 10, 'quantity': 5, 'date': new Date('2016-02-06T20:20:13Z') },
+macrepository.getCollection('software').insertMany([
+  { 'game': 'Dracula Unleashed', 'Release Date': 6, 'Operating System': 'Win', 'Genre': 'Horror'},
+  { 'game': 'Dungeon Master II', 'Release Date': 5, 'Operating System': 'Win+mac', 'Genre': 'DungeonCrawler' },
+  { 'game': 'Oregon Trail II', 'Release Date': 1, 'Operating System': 'Win+Mac', 'Genre': 'Educational' },
+  { 'game': 'Darkseed II', 'Release Date:xx/xx/xx': 5, 'Operating Systems': 'Win', 'Genre': 'FMVHorror'},
+  { 'game': 'Kongo Bongo', 'Release Date': 3, 'Operating System': 'Win', 'Genre': 'Action'},
+  { 'game': 'Maddog McCree', 'Release Date': 2, 'Operating System': 'Win+Mac', 'Genre': 'Action'},
 ]);
 
